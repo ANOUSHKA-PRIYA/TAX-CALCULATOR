@@ -8,6 +8,6 @@ Calculation of tax based on provided inputs.
 Display of overall income after tax deductions in a modal.
 
 # Technologies Used
-HTML
-CSS
+HTML,
+CSS,
 JavaScript
