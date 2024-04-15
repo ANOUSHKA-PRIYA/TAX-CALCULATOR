@@ -11,3 +11,5 @@ Display of overall income after tax deductions in a modal.
 HTML,
 CSS,
 JavaScript
+
+# Screenshots
